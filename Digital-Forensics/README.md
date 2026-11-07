@@ -2,37 +2,71 @@
 
 
 
-Welcome to my Digital Forensics portfolio.
+\## About Me
+
+I am an Information Technology graduate with a strong interest in Cybersecurity, Digital Forensics, and Incident Response.
 
 
 
-This repository documents my practical learning and development in digital forensics, cybersecurity investigations, and incident response.
+This portfolio showcases my practical learning, technical exercises, research, and documented cybersecurity investigations.
 
 
 
-\## Areas of Focus
+\## Technical Areas
+
+\- Digital Evidence Acquisition
+
+\- Evidence Preservation and Integrity
+
+\- File System Analysis
+
+\- Windows Forensics
+
+\- Network Forensics
+
+\- Incident Response
+
+\- Cybersecurity Investigation
 
 
 
-\- Digital evidence collection
+\## Tools and Technologies
 
-\- Evidence preservation
+\- Autopsy
 
-\- File system analysis
+\- FTK Imager
 
-\- Digital investigations
+\- Wireshark
 
-\- Forensic documentation
+\- Kali Linux
 
-
-
-\## Objective
+\- Windows Forensic Tools
 
 
 
-To develop practical digital forensics skills through hands-on exercises, research, and documented investigations.
+\## Portfolio Objectives
+
+\- Develop practical digital forensic investigation skills.
+
+\- Understand digital evidence handling and preservation.
+
+\- Document forensic exercises and findings.
+
+\- Build practical cybersecurity experience.
 
 
 
-\*\*Author:\*\* Jonathan Samdzi
+\## Projects
+
+Practical projects and investigation reports will be added as I progress.
+
+
+
+\## Author
+
+Jonathan Samdzi
+
+
+
+Information Technology | Cybersecurity | Digital Forensics
 
